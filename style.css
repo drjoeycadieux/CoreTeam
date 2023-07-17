@@ -29,6 +29,7 @@ body {
 
 .navbar a:hover {
   color: lightslategray;
+  text-decoration: underline;
 }
 
 .navbar p {
