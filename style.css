@@ -6,7 +6,7 @@ body {
 
 .navbar {
   padding: 15px;
-  background-color: #1e2062;
+  background-color: #000000;
 }
 
 .navbar ul {
@@ -36,11 +36,12 @@ body {
   font-family: sans-serif;
   font-weight: bold;
   font-size: 24px;
+  text-decoration: underline;
 }
 
 .inner {
-  padding: 2px;
-  background-color: firebrick;
+  padding: 1px;
+  background-color: #fcfcfd;
 }
 
 .wrapper {
