@@ -6,8 +6,10 @@ body {
 
 .navbar {
   padding: 15px;
-  background-color: #000000;
+  background-color: #ffffff;
   text-align: center;
+   box-shadow: 0 1px 3px rgb(0 0 0 / 10%), 0 2px 2px rgb(0 0 0 / 6%),
+    0 0 2px rgb(0 0 0 / 7%);
 }
 
 .navbar ul {
@@ -20,7 +22,7 @@ body {
 }
 
 .navbar ul li a {
-  color: white;
+  color: black;
   text-decoration: none;
   font-family: sans-serif;
   font-weight: 400;
@@ -34,18 +36,11 @@ body {
 
 .navbar p {
   display: inline;
-  color: white;
+  color: black;
   font-family: sans-serif;
   font-weight: bold;
   font-size: 24px;
   text-decoration: underline;
-}
-
-.inner {
-  padding: 1px;
-  background-color: #fcfcfd;
-  width: 900px;
-  margin: auto;
 }
 
 .wrapper {
@@ -56,5 +51,5 @@ body {
   text-align: center;
   font-family: sans-serif;
   font-size: 30px;
-  color: white;
+  color: #000000;
 }
