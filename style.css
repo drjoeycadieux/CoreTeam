@@ -65,3 +65,16 @@ body {
   padding: 1rem;
   border-radius: 15px;
 }
+
+.ops-center {
+  padding: 5px;
+}
+
+.ops-center p {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-decoration: underline;
+}
