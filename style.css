@@ -58,3 +58,9 @@ body {
   font-size: 30px;
   color: #000000;
 }
+
+.button {
+  background-color: firebrick;
+  padding: 1rem;
+  border-radius: 15px;
+}
