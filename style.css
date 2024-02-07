@@ -31,7 +31,8 @@ body {
   text-decoration: none;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 16px;
+  /* Adjusted font size for mobile */
 }
 
 .navbar a:hover {
@@ -44,26 +45,31 @@ body {
   color: black;
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 20px;
+  /* Adjusted font size for mobile */
   line-height: 1.4;
   text-decoration: underline;
 }
 
 .wrapper {
-  margin-top: 150px;
+  margin-top: 100px;
+  /* Adjusted margin for mobile */
 }
 
 .wrapper p {
   text-align: center;
   font-family: sans-serif;
-  font-size: 30px;
+  font-size: 24px;
+  /* Adjusted font size for mobile */
   color: #000000;
 }
 
 .button {
   background-color: firebrick;
-  padding: 1rem;
-  border-radius: 15px;
+  padding: 0.8rem;
+  /* Adjusted padding for mobile */
+  border-radius: 10px;
+  /* Adjusted border radius for mobile */
 }
 
 .ops-center {
@@ -72,7 +78,8 @@ body {
 
 .ops-center p {
   color: black;
-  font-size: 30px;
+  font-size: 24px;
+  /* Adjusted font size for mobile */
   text-align: center;
   font-weight: bold;
   font-family: sans-serif;
